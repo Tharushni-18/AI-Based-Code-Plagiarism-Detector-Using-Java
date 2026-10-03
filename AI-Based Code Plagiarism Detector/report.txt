@@ -1,4 +1,4 @@
 Code Plagiarism Report
 ----------------------
-Similarity: 62.5%
-Status: Moderate similarity
+Similarity: 86.36363636363636%
+Status: HIGH plagiarism detected
